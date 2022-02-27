@@ -1,3 +1,4 @@
-- 👋 Hi, I’m @mochacodes
-- 🌱 I’m currently learning rust, go and react/typescript
-- 📫 Reach me at mochacodes@outlook.com, https://twitter.com/mochacodes
+- Hi, I’m @mochacodes
+- I’m currently learning rust, go and react/typescript
+- Email: mochacodes@outlook.com
+- Twitter: https://twitter.com/mochacodes
